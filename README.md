@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @WheatbixCodes
-- 👀 I’m interested in Java, Javascript, C#, C and SQL
-- 🌱 I’m currently learning Application Development
-- 💞️ I’m looking to collaborate on Web Applications and basic CRUD applications
+- 👀 I’m interested in Java, AI Automation, Game Development, .NET Frameworks, API creation, C#, C++, SQL, PL/SQL & like-minded individuals with a passion!
+- 🌱 I’m currently learning Application & Software Development
+- 💞️ I’m looking to collaborate on Web Applications, basic CRUD applications, Game applications, Automated systems, Android & IOS applications.
 - 📫 How to reach me wheatbix89@gmail.com
 
-<!---
-WheatbixCodes/WheatbixCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
